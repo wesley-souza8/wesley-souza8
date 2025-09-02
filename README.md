@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **GitHub Stats**
-<a href="https://github.com/wesley-souza8"><img alt="Wesley" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-souza8&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+<a href="https://github.com/wesley-souza8"><img alt="Wesley" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-souza8&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,jupyter%20notebook,typescript" /></a>
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-souza8&show_icons=true&theme=radical)
 
 ---
