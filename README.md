@@ -5,7 +5,7 @@
 ☁️ **AWS Certified Cloud Practitioner**  
 ⚙️ Desenvolvimento com **Python**, **Java**, **SQL** e **C#**  
 🌩️ Trabalhando com <img align="center" alt="AWS" height="30" width="40" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"><br>
-🚀 Trabalhando no projeto [DWE ONE]([https://github.com/dwe-corp](https://dew-web.eduardoakiramurata.workers.dev/)  
+🚀 Trabalhando no projeto [DEW](https://dew-web.eduardoakiramurata.workers.dev/).  
 💡 Interesses em **Backend | Java | Python | AWS | Análise de Dados**
 
 ---
